@@ -1,0 +1,2 @@
+developer.github.com-.gitattributes
+===================================
